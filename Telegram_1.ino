@@ -4,12 +4,12 @@
 #include <ArduinoJson.h>
 
 // ── WiFi Credentials ──
-const char* ssid     = "Manas";
-const char* password = "Manas@2025";
+const char* ssid     = "ssid";
+const char* password = "Password";
 
 // ── Telegram Bot ──
-#define BOT_TOKEN "8746878156:AAE4rkMSyUwG65vAgz9XTzDmJgHAFsj_a6g"
-#define CHAT_ID   "1796567647"
+#define BOT_TOKEN "Token"
+#define CHAT_ID   "ChatId"
 
 // ── LED Pins (4 LEDs) ──
 #define LED1 2
